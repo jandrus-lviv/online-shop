@@ -47,5 +47,12 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "8",
+        "title": "Rubik's Cube",
+        "image": "rubik-cube.jpg",
+        "description": "Rubik's Cube is a 3-D combination puzzle invented in 1974",
+        "price": 9.99
     }
 ]
